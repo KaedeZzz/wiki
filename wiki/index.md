@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 最后更新：2026-06-11 ｜ 概念页 65 篇 ｜ 来源 3 条（374 个原始文件）
+> 最后更新：2026-07-06 ｜ 概念页 74 篇 ｜ 来源 4 条（406 个原始文件）
 
 ## meta
 
@@ -9,6 +9,26 @@
 - [[three-layer-architecture]] — raw sources / wiki / schema 三层结构
 - [[wiki-operations]] — Ingest / Query / Lint 三个核心操作
 - [[memex]] — Vannevar Bush 1945 年提出的个人知识存储愿景
+
+## control-theory
+
+### 基础
+
+- [[transfer-function]] — 传递函数、极点/零点、闭环 H=KG/(1+KG)
+- [[laplace-transform]] — Laplace 变换：s 域连续系统分析
+- [[z-transform-discrete-systems]] — z 域极点与单位圆稳定域
+
+### 稳定性
+
+- [[stability]] — BIBO、s 平面/单位圆判据、三条等价条件
+- [[nyquist-stability]] — 用开环频率响应判定闭环稳定性
+- [[frequency-response]] — Bode 图、增益/相位裕度
+
+### 控制器与状态估计
+
+- [[pid-controller]] — 比例-积分-微分与 Ziegler-Nichols 调参
+- [[state-space-model]] — ẋ=Ax+Bu、Φ(t)=e^{At}
+- [[kalman-filter]] — 线性高斯状态估计、Kalman 增益、EKF、预测误差分解
 
 ## machine-learning
 
