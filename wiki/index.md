@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 最后更新：2026-07-06 ｜ 概念页 74 篇 ｜ 来源 4 条（406 个原始文件）
+> 最后更新：2026-07-06 ｜ 概念页 85 篇 ｜ 来源 5 条（510 个原始文件）
 
 ## meta
 
@@ -29,6 +29,34 @@
 - [[pid-controller]] — 比例-积分-微分与 Ziegler-Nichols 调参
 - [[state-space-model]] — ẋ=Ax+Bu、Φ(t)=e^{At}
 - [[kalman-filter]] — 线性高斯状态估计、Kalman 增益、EKF、预测误差分解
+
+## information-theory
+
+### 熵与信息量度
+
+- [[information-entropy]] — 信息熵 H(X)、二元熵、Perplexity、基本性质
+- [[joint-conditional-entropy]] — 联合/条件熵、链式法则、独立性刻画
+- [[mutual-information]] — 互信息、数据处理不等式、Fano 不等式
+- [[kl-divergence]] — KL 散度、Gibbs、交叉熵、Softmax
+- [[differential-entropy]] — 连续版本、高斯的微分熵、最大熵定理
+
+### 渐近典型性
+
+- [[typicality-and-aep]] — AEP、典型集、弱/强典型、联合 AEP
+
+### 信道
+
+- [[channel-capacity]] — C=max I(X;Y)、BSC、Shannon-Hartley
+
+### 编码
+
+- [[source-coding]] — Kraft、Shannon-Fano、Huffman、算术编码、冗余=KL
+- [[channel-coding]] — 编码定理、可达性/逆定理、线性块码、Hamming
+- [[ldpc-codes]] — 稀疏校验矩阵、消息传递、密度演化
+
+### 学习理论
+
+- [[pac-bayes-bound]] — 用 KL 控制泛化误差
 
 ## machine-learning
 
