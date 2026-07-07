@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 最后更新：2026-07-06 ｜ 概念页 91 篇 ｜ 来源 9 条（538 个原始文件）
+> 最后更新：2026-07-06 ｜ 概念页 92 篇 ｜ 来源 10 条（546 个原始文件）
 
 ## meta
 
@@ -75,6 +75,10 @@
 ## misc
 
 - [[stubs]] — 进化、结构化数据、向量数据（短定义合集）
+
+## research-papers
+
+- [[reading-list]] — 8 篇论文的一句话摘要 + 链接到概念页（VAE、UMAP、DMD、Koopman、PINN 等）
 
 ## machine-learning
 
