@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 最后更新：2026-07-06 ｜ 概念页 85 篇 ｜ 来源 5 条（510 个原始文件）
+> 最后更新：2026-07-06 ｜ 概念页 91 篇 ｜ 来源 9 条（538 个原始文件）
 
 ## meta
 
@@ -57,6 +57,24 @@
 ### 学习理论
 
 - [[pac-bayes-bound]] — 用 KL 控制泛化误差
+
+## computer-vision
+
+- [[camera-model]] — 透视/正投影、齐次坐标、投影相机、相机标定
+- [[feature-detection]] — Canny 边缘、Harris 角点、LoG 斑点、模板匹配、图像金字塔
+- [[potts-model-for-vision]] — MRF 图像分割、Ising 的多状态推广
+
+## statistics
+
+- [[hypothesis-testing]] — Type-I/II、Neyman-Pearson、LLR 极限 = ±KL、置信区间
+
+## computer-science
+
+- [[computing-fundamentals]] — CPU、Amdahl 定律、AI 定义
+
+## misc
+
+- [[stubs]] — 进化、结构化数据、向量数据（短定义合集）
 
 ## machine-learning
 
