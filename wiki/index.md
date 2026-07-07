@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 最后更新：2026-07-06 ｜ 概念页 92 篇 ｜ 来源 10 条（546 个原始文件）
+> 最后更新：2026-07-06 ｜ 概念页 100 篇 ｜ 来源 11 条（621 个原始文件）
 
 ## meta
 
@@ -79,6 +79,28 @@
 ## research-papers
 
 - [[reading-list]] — 8 篇论文的一句话摘要 + 链接到概念页（VAE、UMAP、DMD、Koopman、PINN 等）
+
+## physics
+
+### 力学基础
+
+- [[rigid-body-dynamics]] — Newton 2 定律、质心、角动量、惯量张量与主轴
+- [[lagrangian-mechanics]] — L=T-V、Euler-Lagrange、广义坐标、小振动二次型
+
+### 振动
+
+- [[small-vibrations]] — Mq̈+Kq=Q、广义特征值、模态正交、解耦
+- [[vibration-transfer-functions]] — Receptance/Mobility/Inertance、半功率带宽、互易、极坐标
+- [[continuous-vibrations]] — 弦、Euler-Bernoulli 梁、边界条件、evanescent 波
+
+### 动力系统
+
+- [[dynamical-systems]] — 状态空间、线性化、Laplace 解、传递函数矩阵
+- [[koopman-and-dmd]] — Koopman 算子、不变子空间、特征函数、DMD
+
+### 原理
+
+- [[noether-and-parsimony]] — 对称↔守恒；建模的简约原则
 
 ## machine-learning
 
