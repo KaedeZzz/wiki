@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 最后更新：2026-07-06 ｜ 概念页 100 篇 ｜ 来源 11 条（621 个原始文件）
+> 最后更新：2026-07-08 ｜ 概念页 111 篇 ｜ 来源 12 条（740 个原始文件）
 
 ## meta
 
@@ -79,6 +79,31 @@
 ## research-papers
 
 - [[reading-list]] — 8 篇论文的一句话摘要 + 链接到概念页（VAE、UMAP、DMD、Koopman、PINN 等）
+
+## communications
+
+### 基础
+
+- [[signals-and-lti-systems]] — 信号、LTI、因果、稳态正弦响应、poles/zeros
+- [[sampling-and-a-d-conversion]] — Nyquist 定理、双线性变换、频率扭曲
+
+### Fourier 与 z 变换
+
+- [[fourier-series]] — 周期信号、复系数、Parseval
+- [[fourier-transform]] — FT、DTFT、Dirac δ、Heisenberg-Gabor
+- [[z-transform]] — ROC、反变换、DTFT 关系、差分方程解法
+- [[discrete-fourier-transform-and-fft]] — DFT、FFT、循环 vs 线性卷积、Overlap-Save
+
+### 滤波与谱
+
+- [[fir-and-iir-filters]] — FIR/IIR、窗方法、Butterworth、带型变换
+- [[optimal-filtering]] — Wiener、Wiener-Hopf、Matched Filter、正交性原理
+- [[power-spectral-density]] — PSD、自相关、Einstein-Wiener-Kitchin
+
+### 现代通信
+
+- [[ofdm-and-isi]] — 多径 ISI、循环前缀、DFT 域信道对角化
+- [[discrete-state-space-and-particle-filter]] — 非线性/非高斯 SSM、SMC、重要性重采样
 
 ## physics
 
