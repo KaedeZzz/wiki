@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 最后更新：2026-07-08 ｜ 概念页 111 篇 ｜ 来源 12 条（740 个原始文件）
+> 最后更新：2026-07-08 ｜ 概念页 119 篇 ｜ 来源 13 条（806 个原始文件） ｜ `_Knowledge/` 已全量摄入
 
 ## meta
 
@@ -79,6 +79,25 @@
 ## research-papers
 
 - [[reading-list]] — 8 篇论文的一句话摘要 + 链接到概念页（VAE、UMAP、DMD、Koopman、PINN 等）
+
+## human-and-society
+
+### 组织行为学
+
+- [[organisational-behaviour-overview]] — 三大流派、泰勒主义、韦伯官僚制、Hawthorne
+- [[motivation-theories]] — Maslow/McClelland、期望/公平理论、SDT、Self-Efficacy
+- [[groups-and-decisions]] — 群体决策、Groupthink、Bounded Rationality
+
+### 心理与认知
+
+- [[perception-and-bias]] — 感知机制、7 大偏差、Prospect Theory
+- [[personality-frameworks]] — Big Five、MBTI 批判、人格成因
+
+### 组织与制度
+
+- [[organisational-culture]] — 隐式控制系统、Tightness-Looseness、ASA、社会化三阶段
+- [[innovation-and-diffusion]] — 创造力、Component Model、扩散曲线
+- [[person-org-fit-and-social-learning]] — POF、Bandura 社会学习、Vicarious Learning
 
 ## communications
 
